@@ -1,95 +1,158 @@
 cv:
   name: Himanshu Kumar, Ph.D.
+  label: Postdoctoral Fellow
   email: kumarh4@ccf.org
-  url: https://himsriv24.github.io/himanshukumar.github.io/
+  location: Cleveland, OH
+  image: ""
+  summary: Postdoctoral Fellow at Cleveland Clinic's Neurological Institute, specializing in neurotechnology, brain signal processing, epilepsy research, and explainable AI for clinical applications.
+
+  social_networks:
+    - network: X
+      username: _himanshu_sri
+    - network: GitHub
+      username: himsriv24
+    - network: LinkedIn
+      username: himanshu-kumar-ph-d-ba2298a7
+
+  address:
+    street: 9500 Euclid Ave
+    city: Cleveland
+    region: Ohio
+    postalCode: OH 44195
+    countryCode: US
+
   sections:
-    education:
+    Education:
       - institution: Indian Institute of Technology (IIT) Madras
+        location: Chennai, India
+        url: https://www.iitm.ac.in/
         area: Biomedical Engineering
         studyType: Doctor of Philosophy (Ph.D.)
-        startDate: 2019
-        endDate: 2024
+        start_date: 2019
+        end_date: 2024
+        score: ""
+        courses: ""
         highlights:
           - "Thesis: Analysis and Classification of Audio-Visual Stimuli Induced Emotional States Using EEG Signals"
-          - "Advisor: Prof. Ramakrishnan Swaminathan"
-          - "Half-Time Research Assistantship (HTRA) fellowship recipient"
+          - "Advisor: Prof. Ramakrishnan Swaminathan, Dept. of Applied Mechanics and Biomedical Engineering"
+          - "Half-Time Research Assistantship (HTRA) fellowship, Ministry of Education, Govt. of India"
+
       - institution: Indian Institute of Information Technology (IIIT) Allahabad
+        location: Prayagraj, India
+        url: https://www.iiita.ac.in/
         area: Biomedical Engineering
         studyType: Integrated M.Tech
-        startDate: 2013
-        endDate: 2018
+        start_date: 2013
+        end_date: 2018
         highlights:
-          - "Bronze Medal for academic excellence"
+          - "Bronze Medal for outstanding academic performance"
           - "Thesis: Design and Development of a Smart Pulse Oximeter (SpO2) with Early Warning System"
 
-    experience:
+    Experience:
       - company: Cleveland Clinic
         position: Postdoctoral Fellow
         location: Cleveland, OH, USA
-        startDate: 2024
-        endDate: present
+        start_date: 2024
+        end_date: present
+        summary: Neurological Institute — NIID Lab, working with Dr. Balu Krishnan on neurotechnology and brain signal processing for epilepsy research.
         highlights:
-          - "Neurological Institute — NIID Lab"
-          - "PI: Dr. Balu Krishnan"
-          - "Seizure segmentation in stereotactic EEG (sEEG) and unsupervised learning of ictal patterns using contrastive latent representations"
+          - "Seizure segmentation in stereotactic EEG (sEEG) using contrastive latent representations"
           - "Seizure onset zone (SOZ) localization using advanced signal processing and deep learning"
+          - "Superlet transform and transformer-based approaches for sEEG analysis"
+
       - company: University Hospital RWTH Aachen
         position: Guest Scientist (DAAD Fellow)
         location: Aachen, Germany
-        startDate: 2022
-        endDate: 2023
+        start_date: 2022
+        end_date: 2023
+        summary: DAAD Bi-National Doctoral Guided Research Fellowship. Supervised by Prof. Ute Habel, Department of Psychiatry, Psychotherapy and Psychosomatics.
         highlights:
-          - "DAAD Bi-National Doctoral Guided Research Fellowship"
-          - "Supervisor: Prof. Ute Habel, Department of Psychiatry"
-          - "EEG-based impulsivity classification and functional brain network analysis"
+          - "EEG-based impulsivity classification using data-driven machine learning approaches"
           - "Whole-brain functional connectivity analysis for trait impulsivity prediction"
+          - "Functional brain network analysis using graph-theoretic methods"
+
       - company: Indian Institute of Technology (IIT) Madras
         position: Doctoral Research Scholar
         location: Chennai, India
-        startDate: 2019
-        endDate: 2024
+        start_date: 2019
+        end_date: 2024
+        summary: Department of Applied Mechanics and Biomedical Engineering. Research on EEG-based emotion recognition using advanced time-frequency and nonlinear methods.
         highlights:
-          - "Department of Applied Mechanics and Biomedical Engineering"
-          - "EEG-based emotion recognition using advanced time-frequency and nonlinear methods"
           - "Developed multi-modal (EEG, PPG, EDA) signal analysis frameworks for affective computing"
+          - "Designed nonlinear phase-based functional connectivity measures for emotion recognition"
           - "Published 10+ journal articles and 8 conference papers during doctoral tenure"
+
       - company: Rajiv Gandhi Cancer Institute and Research Centre
         position: Research Intern
         location: New Delhi, India
-        startDate: 2017
-        endDate: 2018
+        start_date: 2017
+        end_date: 2018
         highlights:
           - "Biomedical signal processing and instrumentation research"
 
-    fellowships_and_awards:
+    Awards:
       - title: DAAD Bi-National Doctoral Guided Research Fellowship
-        date: 2022–2023
-        description: German Academic Exchange Service (DAAD) fellowship for doctoral research at RWTH Aachen University, Germany
+        date: 2022
+        awarder: German Academic Exchange Service (DAAD)
+        summary: Prestigious fellowship for doctoral research at RWTH Aachen University, Germany. Funded by the German Federal Ministry of Education and Research.
+
       - title: Half-Time Research Assistantship (HTRA)
-        date: 2019–2024
-        description: Ministry of Education, Government of India fellowship for doctoral research at IIT Madras
-      - title: Bronze Medal
+        date: 2019
+        awarder: Ministry of Education, Government of India
+        summary: Fellowship for doctoral research at IIT Madras (2019–2024).
+
+      - title: Bronze Medal — Academic Excellence
         date: 2018
-        description: Awarded for outstanding academic performance in Integrated M.Tech, IIIT Allahabad
+        awarder: IIIT Allahabad
+        summary: Awarded for outstanding academic performance in Integrated M.Tech in Biomedical Engineering.
 
-    skills:
-      - category: Signal Processing
-        skills: EEG/sEEG Analysis, Superlet Transform, Wavelet Packet Transform, Phase-Amplitude Coupling, Functional Connectivity, Time-Frequency Analysis, Nonlinear Dynamics
-      - category: Machine Learning & AI
-        skills: Deep Learning (Transformers, CNNs), Random Forests, Logistic Regression (L1-regularized), Support Vector Machines, Explainable AI, Contrastive Learning
-      - category: Programming & Tools
-        skills: Python, MATLAB, R, LaTeX, Git, EEGLAB, MNE-Python, TensorFlow, PyTorch, Scikit-learn
-      - category: Neuroimaging
-        skills: Stereotactic EEG (sEEG), Scalp EEG, PPG, EDA, MEG, Brain Mapping
-      - category: Statistics
-        skills: Logistic Regression, ICC, Adjusted Rand Index, Permutation Testing, Bootstrap Methods, Mixed-Effects Models
+    Skills:
+      - name: Signal Processing
+        level: Expert
+        icon: fa-solid fa-wave-square
+        keywords: "EEG/sEEG Analysis, Superlet Transform, Wavelet Packet Transform, Phase-Amplitude Coupling, Functional Connectivity, Time-Frequency Analysis, Nonlinear Dynamics"
 
-    reviewer_service:
-      - title: Peer Reviewer
-        description: "IEEE Transactions on Affective Computing, Brain Communications (Oxford), Journal of Neural Engineering (IOP), Scientific Reports (Nature), IEEE Sensors Letters, Biomedical Signal Processing and Control (Elsevier), Frontiers in Neuroscience"
+      - name: Machine Learning & AI
+        level: Expert
+        icon: fa-solid fa-robot
+        keywords: "Deep Learning (Transformers, CNNs), Random Forests, L1-Regularized Logistic Regression, SVMs, Explainable AI, Contrastive Learning"
 
-    professional_memberships:
-      - title: Member
-        description: "IEEE Engineering in Medicine and Biology Society (EMBS)"
-      - title: Member
-        description: "American Epilepsy Society (AES)"
+      - name: Programming & Tools
+        level: Expert
+        icon: fa-solid fa-code
+        keywords: "Python, MATLAB, R, LaTeX, Git, EEGLAB, MNE-Python, TensorFlow, PyTorch, Scikit-learn"
+
+      - name: Neuroimaging
+        level: Expert
+        icon: fa-solid fa-brain
+        keywords: "Stereotactic EEG (sEEG), Scalp EEG, PPG, EDA, MEG, Brain Mapping"
+
+      - name: Statistics
+        level: Advanced
+        icon: fa-solid fa-chart-line
+        keywords: "Logistic Regression, ICC, Adjusted Rand Index, Permutation Testing, Bootstrap Methods, Mixed-Effects Models"
+
+    Languages:
+      - name: English
+        summary: "Fluent"
+
+      - name: Hindi
+        summary: "Native speaker"
+
+    Interests:
+      - name: Research
+        icon: fa-solid fa-tag
+        keywords: "Neurotechnology, Brain-Machine Interfaces, Epilepsy, Seizure Onset Zone Localization, Affective Computing, Cognitive Neuroscience, Explainable AI"
+
+    References:
+      - name: Dr. Balu Krishnan
+        icon: fa-solid fa-user-doctor
+        reference: Associate Staff, Epilepsy Center, Cleveland Clinic. Postdoctoral supervisor.
+
+      - name: Prof. Ramakrishnan Swaminathan
+        icon: fa-solid fa-graduation-cap
+        reference: Professor, Dept. of Applied Mechanics and Biomedical Engineering, IIT Madras. Ph.D. advisor.
+
+      - name: Prof. Ute Habel
+        icon: fa-solid fa-university
+        reference: Professor, Dept. of Psychiatry, Psychotherapy and Psychosomatics, RWTH Aachen University. DAAD research supervisor.
