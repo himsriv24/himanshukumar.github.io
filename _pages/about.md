@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Postdoctoral Fellow | <a href='https://my.clevelandclinic.org/departments/neurological/depts/epilepsy'>Neurological Institute, Cleveland Clinic</a> | Neurotechnology & Brain Signal Processing
+  Postdoctoral Fellow | <a href='https://my.clevelandclinic.org/departments/neurological/research-innovations'>Neurological Institute, Cleveland Clinic</a> | Neurotechnology & Brain Signal Processing
 
 profile:
   align: right
