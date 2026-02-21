@@ -22,7 +22,7 @@ news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 ---
 
-I am a Postdoctoral Fellow at the [Epilepsy Center, Neurological Institute, Cleveland Clinic](https://my.clevelandclinic.org/departments/neurological/depts/epilepsy), working with [Dr. Balu Krishnan](https://scholar.google.com/citations?user=e9PG7noAAAAJ&hl=en) on neurotechnology and brain signal processing for epilepsy research. My current work focuses on seizure segmentation in stereotactic EEG (sEEG) and unsupervised learning of ictal patterns using contrastive latent representations.
+I am a Postdoctoral Fellow at the [Epilepsy Center, Neurological Institute, Cleveland Clinic](https://my.clevelandclinic.org/departments/neurological/depts/epilepsy), working with [Dr. Balu Krishnan](https://scholar.google.com/citations?user=e9PG7noAAAAJ&hl=en) on neurotechnology and brain signal processing for epilepsy research. My current work focuses on seizure segmentation in stereotactic EEG (SEEG) and unsupervised learning of ictal patterns using contrastive latent representations.
 
 I received my Ph.D. from the [Indian Institute of Technology (IIT) Madras](https://www.iitm.ac.in/) in the Department of Applied Mechanics and Biomedical Engineering, advised by [Prof. Ramakrishnan Swaminathan](https://apm.iitm.ac.in/pages/profile-ramakrishnans) and [Dr. Subha D. Puthankattil](https://nitc.ac.in/department/electrical-engineering/faculty-and-staff/faculty/2c0ca691-95db-4e0c-ab16-bc23c6835e85). My doctoral research centered on the analysis and classification of audio-visual stimuli induced emotional states using EEG signals, leveraging advanced signal processing and explainable machine learning techniques.
 
