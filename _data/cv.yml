@@ -61,10 +61,10 @@ cv:
           - "Superlet transform and transformer-based approaches for SEEG analysis"
 
       - company: University Hospital RWTH Aachen
-        position: Guest Scientist (DAAD Fellow)
+        position: Guest Scientist (DAAD and AROP Fellow)
         location: Aachen, Germany
-        start_date: 2022
-        end_date: 2023
+        start_date: 2021
+        end_date: 2022
         summary: DAAD Bi-National Doctoral Guided Research Fellowship. Supervised by Prof. Ute Habel, Department of Psychiatry, Psychotherapy and Psychosomatics.
         highlights:
           - "EEG-based impulsivity classification using data-driven machine learning approaches"
