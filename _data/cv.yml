@@ -54,9 +54,9 @@ cv:
         location: Cleveland, OH, USA
         start_date: 2024
         end_date: present
-        summary: Neurological Institute — NIID Lab, working with Dr. Balu Krishnan on neurotechnology and brain signal processing for epilepsy research.
+        summary: Neurological Institute — SPIKE Lab, working with Dr. Balu Krishnan on neurotechnology and brain signal processing for epilepsy research.
         highlights:
-          - "Seizure segmentation in stereotactic EEG (sEEG) using contrastive latent representations"
+          - "Seizure segmentation in stereotactic EEG (SEEG) using contrastive latent representations"
           - "Seizure onset zone (SOZ) localization using advanced signal processing and deep learning"
           - "Superlet transform and transformer-based approaches for sEEG analysis"
 
@@ -76,7 +76,7 @@ cv:
         location: Chennai, India
         start_date: 2019
         end_date: 2024
-        summary: Department of Applied Mechanics and Biomedical Engineering. Research on EEG-based emotion recognition using advanced time-frequency and nonlinear methods.
+        summary: NIID Lab, Department of Applied Mechanics and Biomedical Engineering. Research on EEG-based emotion recognition using advanced time-frequency and nonlinear methods.
         highlights:
           - "Developed multi-modal (EEG, PPG, EDA) signal analysis frameworks for affective computing"
           - "Designed nonlinear phase-based functional connectivity measures for emotion recognition"
@@ -110,7 +110,7 @@ cv:
       - name: Signal Processing
         level: Expert
         icon: fa-solid fa-wave-square
-        keywords: "EEG/sEEG Analysis, Superlet Transform, Wavelet Packet Transform, Phase-Amplitude Coupling, Functional Connectivity, Time-Frequency Analysis, Nonlinear Dynamics"
+        keywords: "EEG/SEEG Analysis, Superlet Transform, Wavelet Packet Transform, Phase-Amplitude Coupling, Functional Connectivity, Time-Frequency Analysis, Nonlinear Dynamics"
 
       - name: Machine Learning & AI
         level: Expert
@@ -125,7 +125,7 @@ cv:
       - name: Neuroimaging
         level: Expert
         icon: fa-solid fa-brain
-        keywords: "Stereotactic EEG (sEEG), Scalp EEG, PPG, EDA, MEG, Brain Mapping"
+        keywords: "Stereotactic EEG (SEEG), Scalp EEG, PPG, EDA, MEG, Brain Mapping"
 
       - name: Statistics
         level: Advanced
