@@ -26,7 +26,7 @@ Understanding how seizures progress through **initiation → propagation → ter
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/seizure_segmentation_pipeline.jpg" title="Three-phase segmentation pipeline" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/seizure_segmentation_pipeline.png" title="Three-phase segmentation pipeline" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -76,4 +76,4 @@ By coupling physiologically meaningful features with exact changepoint detection
 
 ## Related Publications
 
-\cite{kumar2026threephase}
+Under Review
